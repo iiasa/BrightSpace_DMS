@@ -1,5 +1,12 @@
 export const SEARCH_INDEX = [
   {
+    "title": "BrightSpace",
+    "headers": [],
+    "path": "/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "",
     "headers": [
       {
@@ -25,13 +32,6 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/get-started.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "BrightSpace",
-    "headers": [],
-    "path": "/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -102,13 +102,20 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Indicator",
+    "title": "Aligning SJOS to thematic areas and indicator domains",
     "headers": [
       {
         "level": 2,
-        "title": "test",
-        "slug": "test",
-        "link": "#test",
+        "title": "Safe Operating Spaces Thematic Areas and Indicator Domains",
+        "slug": "safe-operating-spaces-thematic-areas-and-indicator-domains",
+        "link": "#safe-operating-spaces-thematic-areas-and-indicator-domains",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Just Operating Spaces Thematic Areas and Indicator Domains",
+        "slug": "just-operating-spaces-thematic-areas-and-indicator-domains",
+        "link": "#just-operating-spaces-thematic-areas-and-indicator-domains",
         "children": []
       }
     ],
@@ -117,236 +124,57 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Just Operating Space (JOS)",
+    "title": "Just Operating Space (JOS) thematic",
     "headers": [
       {
         "level": 2,
-        "title": "Subsidies as part of income",
-        "slug": "subsidies-as-part-of-income",
-        "link": "#subsidies-as-part-of-income",
+        "title": "Farm resilience",
+        "slug": "farm-resilience",
+        "link": "#farm-resilience",
         "children": [
           {
             "level": 3,
-            "title": "Source",
-            "slug": "source",
-            "link": "#source",
+            "title": "Farm income",
+            "slug": "farm-income",
+            "link": "#farm-income",
             "children": []
           },
           {
             "level": 3,
-            "title": "Description",
-            "slug": "description",
-            "link": "#description",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Link",
-            "slug": "link",
-            "link": "#link",
+            "title": "Farm viability",
+            "slug": "farm-viability",
+            "link": "#farm-viability",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "Task 3.3 & 7.2",
-        "slug": "task-3-3-7-2",
-        "link": "#task-3-3-7-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos",
-            "link": "#data-or-processes-required-for-evidence-on-sjos",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Resolution",
-            "slug": "resolution",
-            "link": "#resolution",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started",
-            "link": "#work-started",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility",
-            "link": "#responsibility",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox",
-            "link": "#data-toolbox",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status",
-            "link": "#comments-regarding-the-current-status",
-            "children": []
-          }
-        ]
+        "title": "Nutrition security",
+        "slug": "nutrition-security",
+        "link": "#nutrition-security",
+        "children": []
       },
       {
         "level": 2,
-        "title": "Task 3.1 & 3.2",
-        "slug": "task-3-1-3-2",
-        "link": "#task-3-1-3-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos-1",
-            "link": "#data-or-processes-required-for-evidence-on-sjos-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Resolution",
-            "slug": "resolution-1",
-            "link": "#resolution-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started-1",
-            "link": "#work-started-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility-1",
-            "link": "#responsibility-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox-1",
-            "link": "#data-toolbox-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status-1",
-            "link": "#comments-regarding-the-current-status-1",
-            "children": []
-          }
-        ]
+        "title": "Health",
+        "slug": "health",
+        "link": "#health",
+        "children": []
       },
       {
         "level": 2,
-        "title": "Task 7.1",
-        "slug": "task-7-1",
-        "link": "#task-7-1",
-        "children": [
-          {
-            "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos-2",
-            "link": "#data-or-processes-required-for-evidence-on-sjos-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Resolution",
-            "slug": "resolution-2",
-            "link": "#resolution-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started-2",
-            "link": "#work-started-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility-2",
-            "link": "#responsibility-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox-2",
-            "link": "#data-toolbox-2",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status-2",
-            "link": "#comments-regarding-the-current-status-2",
-            "children": []
-          }
-        ]
+        "title": "Economy",
+        "slug": "economy",
+        "link": "#economy",
+        "children": []
       },
       {
         "level": 2,
-        "title": "Task 7.3",
-        "slug": "task-7-3",
-        "link": "#task-7-3",
-        "children": [
-          {
-            "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos-3",
-            "link": "#data-or-processes-required-for-evidence-on-sjos-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Resolution",
-            "slug": "resolution-3",
-            "link": "#resolution-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started-3",
-            "link": "#work-started-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility-3",
-            "link": "#responsibility-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox-3",
-            "link": "#data-toolbox-3",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status-3",
-            "link": "#comments-regarding-the-current-status-3",
-            "children": []
-          }
-        ]
+        "title": "Social equity",
+        "slug": "social-equity",
+        "link": "#social-equity",
+        "children": []
       }
     ],
     "path": "/guide/jos.html",
@@ -356,6 +184,27 @@ export const SEARCH_INDEX = [
   {
     "title": "Overview",
     "headers": [
+      {
+        "level": 2,
+        "title": "Project",
+        "slug": "project",
+        "link": "#project",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Safe and Just Operating Spaces within BrightSpace",
+        "slug": "safe-and-just-operating-spaces-within-brightspace",
+        "link": "#safe-and-just-operating-spaces-within-brightspace",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Literature Review of impacts of SJOS",
+        "slug": "literature-review-of-impacts-of-sjos",
+        "link": "#literature-review-of-impacts-of-sjos",
+        "children": []
+      },
       {
         "level": 2,
         "title": "",
@@ -369,104 +218,84 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "SAFE",
+    "title": "Safe Operating Space (SOS) thematic",
     "headers": [
       {
         "level": 2,
-        "title": "Task 4.2",
-        "slug": "task-4-2",
-        "link": "#task-4-2",
+        "title": "Biodiversity",
+        "slug": "biodiversity",
+        "link": "#biodiversity",
         "children": [
           {
             "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos",
-            "link": "#data-or-processes-required-for-evidence-on-sjos",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Resolution",
-            "slug": "resolution",
-            "link": "#resolution",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started",
-            "link": "#work-started",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility",
-            "link": "#responsibility",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox",
-            "link": "#data-toolbox",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status",
-            "link": "#comments-regarding-the-current-status",
+            "title": "Approach: Grass land intensity - mowing event detection",
+            "slug": "approach-grass-land-intensity-mowing-event-detection",
+            "link": "#approach-grass-land-intensity-mowing-event-detection",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "Taks 3.3",
-        "slug": "taks-3-3",
-        "link": "#taks-3-3",
+        "title": "Land use",
+        "slug": "land-use",
+        "link": "#land-use",
         "children": [
           {
             "level": 3,
-            "title": "Data or processes required for evidence on SJOS",
-            "slug": "data-or-processes-required-for-evidence-on-sjos-1",
-            "link": "#data-or-processes-required-for-evidence-on-sjos-1",
+            "title": "Approach: crop type detection",
+            "slug": "approach-crop-type-detection",
+            "link": "#approach-crop-type-detection",
             "children": []
           },
           {
             "level": 3,
-            "title": "Resolution",
-            "slug": "resolution-1",
-            "link": "#resolution-1",
+            "title": "Approach: parcel segmentation",
+            "slug": "approach-parcel-segmentation",
+            "link": "#approach-parcel-segmentation",
             "children": []
-          },
-          {
-            "level": 3,
-            "title": "Work started",
-            "slug": "work-started-1",
-            "link": "#work-started-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Responsibility",
-            "slug": "responsibility-1",
-            "link": "#responsibility-1",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Data toolbox",
-            "slug": "data-toolbox-1",
-            "link": "#data-toolbox-1",
-            "children": []
-          },
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Water use",
+        "slug": "water-use",
+        "link": "#water-use",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Nutrient flows",
+        "slug": "nutrient-flows",
+        "link": "#nutrient-flows",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Chemical pollution (novel entities)",
+        "slug": "chemical-pollution-novel-entities",
+        "link": "#chemical-pollution-novel-entities",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Aerosol loading",
+        "slug": "aerosol-loading",
+        "link": "#aerosol-loading",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Climate",
+        "slug": "climate",
+        "link": "#climate",
+        "children": [
           {
             "level": 3,
             "title": "Comments regarding the current status",
-            "slug": "comments-regarding-the-current-status-1",
-            "link": "#comments-regarding-the-current-status-1",
+            "slug": "comments-regarding-the-current-status",
+            "link": "#comments-regarding-the-current-status",
             "children": []
           }
         ]

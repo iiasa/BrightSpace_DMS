@@ -1,40 +1,40 @@
-<template><div><h1 id="just-operating-space-jos" tabindex="-1"><a class="header-anchor" href="#just-operating-space-jos"><span>Just Operating Space (JOS)</span></a></h1>
-<h2 id="subsidies-as-part-of-income" tabindex="-1"><a class="header-anchor" href="#subsidies-as-part-of-income"><span>Subsidies as part of income</span></a></h2>
-<p>FADN subsidies from a down-scaling approach</p>
-<h3 id="source" tabindex="-1"><a class="header-anchor" href="#source"><span>Source</span></a></h3>
-<p>FADN data and other</p>
-<h3 id="description" tabindex="-1"><a class="header-anchor" href="#description"><span>Description</span></a></h3>
-<p>Downscaling approach baseod on .... Data is protected (more than 15 obs. per observation unit)</p>
-<h3 id="link" tabindex="-1"><a class="header-anchor" href="#link"><span>Link</span></a></h3>
+<template><div><h1 id="just-operating-space-jos-thematic" tabindex="-1"><a class="header-anchor" href="#just-operating-space-jos-thematic"><span>Just Operating Space (JOS) thematic</span></a></h1>
+<h2 id="farm-resilience" tabindex="-1"><a class="header-anchor" href="#farm-resilience"><span>Farm resilience</span></a></h2>
+<h3 id="farm-income" tabindex="-1"><a class="header-anchor" href="#farm-income"><span>Farm income</span></a></h3>
+<h4 id="approach-fadn-spatial-downscaling" tabindex="-1"><a class="header-anchor" href="#approach-fadn-spatial-downscaling"><span><em>Approach: FADN spatial - Downscaling</em></span></a></h4>
+<h5 id="description" tabindex="-1"><a class="header-anchor" href="#description"><span><em>Description</em></span></a></h5>
+<p>FADN subsidies are part of farm income. As these data is only accessible at farm level, a down scaling approach has been developed and applied.</p>
+<p>Data is protected (more than 15 obs. per observation unit).</p>
+<h5 id="main-data-sources-to-produce-the-data" tabindex="-1"><a class="header-anchor" href="#main-data-sources-to-produce-the-data"><span><em>Main data sources to produce the data</em></span></a></h5>
+<ul>
+<li>Individual FADN data</li>
+<li>Farm Structure Spatial Units (FSU) established in the VERIFY project (<a href="https://verify.lsce.ipsl.fr/" target="_blank" rel="noopener noreferrer">link_FSU</a>)</li>
+<li>CAPDIS for information on land use and yields (Britz, W., Witzke, P.  (2014). CAPRI model documentation 2014)
+<ul>
+<li>Information on land use in the FSU is calculated calculated through the Land Area Prediction model (LAPM), based on the methods of Lamboni et al. (2016: Lamboni, M. R. Koeble, A. Leip (2016).</li>
+<li>Multi-scale land-use disaggregation modelling: concept and application to EU countries. Environmental Modelling &amp; Software 82, 183-217. <a href="https://doi.org/10.1016/j.envsoft.2016.04.028" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.envsoft.2016.04.028</a>), and assessing its accuracy (Leip et al., 2017: Leip, A., Koeble, R., Rotllan-Puig, X., 2017. Land Area Prediction model (LAPM) Accuracy Assessment. European Commission, Ispra (VA), Italy. <a href="https://doi.org/10.2760/624482" target="_blank" rel="noopener noreferrer">https://doi.org/10.2760/624482</a>).</li>
+<li>They include available data of crop areas from the Farm Structure Survey 2010 at a 10 km x 10 km grid, developing a methodology to gap-fill missing data which was filtered out by confidentiality rules (Bujnowska et al., 2019: Bujnowska, A., Gomez-Prieto, O., Kloek, W., Koeble, R., Leip, D., Martinez-Solano, D., Ramos, H. (2019). Disseminating European data at farm level while protecting confidentiality: scientific use files and homogeneous spatial units, in: International Conference on Agricultural Statistics, New Delhi.).</li>
+</ul>
+</li>
+</ul>
+<h5 id="reports" tabindex="-1"><a class="header-anchor" href="#reports"><span><em>Reports</em></span></a></h5>
+<ul>
+<li>Estimation approaches to downscale policy information from FADN (Chapter 5 in <a href="https://www.lamasus.eu/wp-content/uploads/LAMASUS_D3.1-Report-on-Stocktake-of-Requirements-and-Technical-Specifications-for-the-LUM-Policy-Database.pdf" target="_blank" rel="noopener noreferrer">D3.1 Report on stocktake of requirements and technical specifications for the LUM policy database</a> - <a href="https://www.lamasus.eu/" target="_blank" rel="noopener noreferrer">LAMASUS project</a>)</li>
+</ul>
+<h5 id="article" tabindex="-1"><a class="header-anchor" href="#article"><span><em>Article</em></span></a></h5>
+<p>Article is prepared for submission.</p>
+<h5 id="temporal-and-spatial-coverage" tabindex="-1"><a class="header-anchor" href="#temporal-and-spatial-coverage"><span><em>Temporal and spatial coverage</em></span></a></h5>
+<p>Spatial coverage: EU-wide for all countries contributing to the EU-FADN.</p>
+<p>Temporal coverage: depending on progress. Actually 2001-2020 each second year.</p>
+<h5 id="resolution" tabindex="-1"><a class="header-anchor" href="#resolution"><span><em>Resolution</em></span></a></h5>
+<p>Farm Structure Spatial Units (FSU). High resolution of grids of different size.</p>
+<h5 id="visualization" tabindex="-1"><a class="header-anchor" href="#visualization"><span><em>Visualization</em></span></a></h5>
 <p><a href="https://humusklimanetz-couch.thuenen.de/fadn-spatial/" target="_blank" rel="noopener noreferrer">FADN SPATIAL</a></p>
-<h2 id="task-3-3-7-2" tabindex="-1"><a class="header-anchor" href="#task-3-3-7-2"><span>Task 3.3 &amp; 7.2</span></a></h2>
-<h3 id="data-or-processes-required-for-evidence-on-sjos" tabindex="-1"><a class="header-anchor" href="#data-or-processes-required-for-evidence-on-sjos"><span>Data or processes required for evidence on SJOS</span></a></h3>
-<h3 id="resolution" tabindex="-1"><a class="header-anchor" href="#resolution"><span>Resolution</span></a></h3>
-<h3 id="work-started" tabindex="-1"><a class="header-anchor" href="#work-started"><span>Work started</span></a></h3>
-<h3 id="responsibility" tabindex="-1"><a class="header-anchor" href="#responsibility"><span>Responsibility</span></a></h3>
-<h3 id="data-toolbox" tabindex="-1"><a class="header-anchor" href="#data-toolbox"><span>Data toolbox</span></a></h3>
-<h3 id="comments-regarding-the-current-status" tabindex="-1"><a class="header-anchor" href="#comments-regarding-the-current-status"><span>Comments regarding the current status</span></a></h3>
-<h2 id="task-3-1-3-2" tabindex="-1"><a class="header-anchor" href="#task-3-1-3-2"><span>Task 3.1 &amp; 3.2</span></a></h2>
-<h3 id="data-or-processes-required-for-evidence-on-sjos-1" tabindex="-1"><a class="header-anchor" href="#data-or-processes-required-for-evidence-on-sjos-1"><span>Data or processes required for evidence on SJOS</span></a></h3>
-<h3 id="resolution-1" tabindex="-1"><a class="header-anchor" href="#resolution-1"><span>Resolution</span></a></h3>
-<h3 id="work-started-1" tabindex="-1"><a class="header-anchor" href="#work-started-1"><span>Work started</span></a></h3>
-<h3 id="responsibility-1" tabindex="-1"><a class="header-anchor" href="#responsibility-1"><span>Responsibility</span></a></h3>
-<h3 id="data-toolbox-1" tabindex="-1"><a class="header-anchor" href="#data-toolbox-1"><span>Data toolbox</span></a></h3>
-<h3 id="comments-regarding-the-current-status-1" tabindex="-1"><a class="header-anchor" href="#comments-regarding-the-current-status-1"><span>Comments regarding the current status</span></a></h3>
-<h2 id="task-7-1" tabindex="-1"><a class="header-anchor" href="#task-7-1"><span>Task 7.1</span></a></h2>
-<h3 id="data-or-processes-required-for-evidence-on-sjos-2" tabindex="-1"><a class="header-anchor" href="#data-or-processes-required-for-evidence-on-sjos-2"><span>Data or processes required for evidence on SJOS</span></a></h3>
-<h3 id="resolution-2" tabindex="-1"><a class="header-anchor" href="#resolution-2"><span>Resolution</span></a></h3>
-<h3 id="work-started-2" tabindex="-1"><a class="header-anchor" href="#work-started-2"><span>Work started</span></a></h3>
-<h3 id="responsibility-2" tabindex="-1"><a class="header-anchor" href="#responsibility-2"><span>Responsibility</span></a></h3>
-<h3 id="data-toolbox-2" tabindex="-1"><a class="header-anchor" href="#data-toolbox-2"><span>Data toolbox</span></a></h3>
-<h3 id="comments-regarding-the-current-status-2" tabindex="-1"><a class="header-anchor" href="#comments-regarding-the-current-status-2"><span>Comments regarding the current status</span></a></h3>
-<h2 id="task-7-3" tabindex="-1"><a class="header-anchor" href="#task-7-3"><span>Task 7.3</span></a></h2>
-<h3 id="data-or-processes-required-for-evidence-on-sjos-3" tabindex="-1"><a class="header-anchor" href="#data-or-processes-required-for-evidence-on-sjos-3"><span>Data or processes required for evidence on SJOS</span></a></h3>
-<h3 id="resolution-3" tabindex="-1"><a class="header-anchor" href="#resolution-3"><span>Resolution</span></a></h3>
-<h3 id="work-started-3" tabindex="-1"><a class="header-anchor" href="#work-started-3"><span>Work started</span></a></h3>
-<h3 id="responsibility-3" tabindex="-1"><a class="header-anchor" href="#responsibility-3"><span>Responsibility</span></a></h3>
-<h3 id="data-toolbox-3" tabindex="-1"><a class="header-anchor" href="#data-toolbox-3"><span>Data toolbox</span></a></h3>
-<h3 id="comments-regarding-the-current-status-3" tabindex="-1"><a class="header-anchor" href="#comments-regarding-the-current-status-3"><span>Comments regarding the current status</span></a></h3>
+<h3 id="farm-viability" tabindex="-1"><a class="header-anchor" href="#farm-viability"><span>Farm viability</span></a></h3>
+<h2 id="nutrition-security" tabindex="-1"><a class="header-anchor" href="#nutrition-security"><span>Nutrition security</span></a></h2>
+<h2 id="health" tabindex="-1"><a class="header-anchor" href="#health"><span>Health</span></a></h2>
+<h2 id="economy" tabindex="-1"><a class="header-anchor" href="#economy"><span>Economy</span></a></h2>
+<h2 id="social-equity" tabindex="-1"><a class="header-anchor" href="#social-equity"><span>Social equity</span></a></h2>
 </div></template>
 
 

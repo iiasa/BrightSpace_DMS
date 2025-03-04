@@ -1,3 +1,0 @@
-import comp from "C:/Users/yang_x/2024/vuepress-starter/docs/.vuepress/.temp/pages/guide/indicator.html.vue"
-const data = JSON.parse("{\"path\":\"/guide/indicator.html\",\"title\":\"Indicator\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"test\",\"slug\":\"test\",\"link\":\"#test\",\"children\":[]}],\"git\":{\"updatedTime\":1730996115000,\"contributors\":[{\"name\":\"xxThu\",\"email\":\"83697529+xxThu@users.noreply.github.com\",\"commits\":1},{\"name\":\"xxThu\",\"email\":\"xinxin.yang@thuenen.de\",\"commits\":1}]},\"filePathRelative\":\"guide/indicator.md\"}")
-export { comp, data }

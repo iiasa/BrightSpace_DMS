@@ -1,0 +1,3 @@
+import comp from "C:/Users/yang_x/2024/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue"
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"BrightSpace\",\"lang\":\"en-US\",\"frontmatter\":{\"home\":true,\"title\":\"BrightSpace\",\"heroImage\":\"/images/brightspace logo horizontal color 300CMYK.png\",\"actions\":[{\"text\":\"Database and Monitoring System\",\"link\":\"/guide/overview.html\",\"type\":\"primary\"}]},\"headers\":[],\"git\":{\"updatedTime\":1730983568000,\"contributors\":[{\"name\":\"xxThu\",\"email\":\"xinxin.yang@thuenen.de\",\"commits\":4},{\"name\":\"Xinxin Yang\",\"email\":\"xinxin.yang@thuenen.de\",\"commits\":3}]},\"filePathRelative\":\"README.md\"}")
+export { comp, data }

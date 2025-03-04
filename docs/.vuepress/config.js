@@ -12,7 +12,7 @@ const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: '/BirghtSpace_DMS/',
+  base: '/BrightSpace_DMS/',
   title: ' ',
   description: ' ',
   head: [
@@ -21,7 +21,7 @@ export default defineUserConfig({
   ],
   theme: defaultTheme({
     logo: '/images/brightspace logo horizontal color 300CMYK.png',
-    repo: 'sebastianneu/BirghtSpace_DMS',
+    repo: 'iiasa/BrightSpace_DMS',
     docsDir: 'docs',
     editLinkText: 'Edit this page on GitHub',
     

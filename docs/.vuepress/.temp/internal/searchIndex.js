@@ -310,28 +310,6 @@ export const SEARCH_INDEX = [
     "headers": [
       {
         "level": 2,
-        "title": "bar in sub2",
-        "slug": "bar-in-sub2",
-        "link": "#bar-in-sub2",
-        "children": []
-      }
-    ],
-    "path": "/sub2/bar.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Foo in sub2",
-    "headers": [],
-    "path": "/sub2/foo.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [
-      {
-        "level": 2,
         "title": "Bar in sub1",
         "slug": "bar-in-sub1",
         "link": "#bar-in-sub1",
@@ -354,6 +332,28 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/sub1/foo.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [
+      {
+        "level": 2,
+        "title": "bar in sub2",
+        "slug": "bar-in-sub2",
+        "link": "#bar-in-sub2",
+        "children": []
+      }
+    ],
+    "path": "/sub2/bar.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Foo in sub2",
+    "headers": [],
+    "path": "/sub2/foo.html",
     "pathLocale": "/",
     "extraFields": []
   },

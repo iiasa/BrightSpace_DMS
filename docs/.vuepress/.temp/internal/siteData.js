@@ -1,1 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/BirghtSpace_DMS/\",\"lang\":\"en-US\",\"title\":\" \",\"description\":\" \",\"head\":[[\"meta\",{\"name\":\"viewport\",\"content\":\"width=device-width,initial-scale=1\"}],[\"title\",{},\"BrightSpace\"]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/BrightSpace_DMS/\",\"lang\":\"en-US\",\"title\":\" \",\"description\":\" \",\"head\":[[\"meta\",{\"name\":\"viewport\",\"content\":\"width=device-width,initial-scale=1\"}],[\"title\",{},\"BrightSpace\"]],\"locales\":{}}")

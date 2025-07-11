@@ -55,7 +55,7 @@ export default defineUserConfig({
             '/guide/indicator.md',
             '/guide/safe.md',
             '/guide/jos.md',
-            'guide/status.md',
+            '/guide/status.md',
           ],
         },
       ],

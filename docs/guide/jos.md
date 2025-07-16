@@ -47,7 +47,35 @@ Farm Structure Spatial Units (FSU). High resolution of grids of different size.
 
 ## Nutrition security 
                    
-                   
+### Food affordability indicator
+
+#### *Description*
+Data about household income and food prices are already available, but so far an indicator for the affordability of a healthy diet in the EU has not yet been developped. We developped this indicator. 
+
+The data used is protected (no more than 20 obs per observation unit).
+
+#### *Main data sources to produce the data*
+
+* The main data sources used are:
+    * The survey on income and living conditions (EU-SILC)
+    * Price data collected as part of the EUROSTAT PPP program
+    * The household budget survey (HBS)
+    * Inflation data retrieved from EUROSTAT
+
+The data is combined at the level of household type per country per year. 
+
+#### *Articles*
+An article is under development.
+
+#### *Temporal and spatial coverage*
+
+Spatial coverage: EU-wide for all countries. 
+
+Temporal coverage: 2015-2022. 
+
+#### *Resolution*
+
+Household level, but reporting is only allowed of observation groups of at least 20 observations.                    
                    
                    
 ## Health             

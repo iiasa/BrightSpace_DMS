@@ -101,6 +101,37 @@ Spatial coverage: Lower Saxony - Federal state of Germany.
 
 Field level parcel data of different size.
 
+### *Approach: Crop Sequence Typology*
+
+##### *Description*
+
+Temporal crop diversity has numerous environmental benefits and is fostered by different agri-environmental policy measures. To monitor policy impacts and design effective measures, knowledge of the actual status of crop sequences is crucial. Here, we provide the results of applying a crop sequence typology developed by Stein & Steinmann (2018) to the German federal state of North Rhine-Westphalia. The typology categorizes every crop sequence according to its functional and structural diversity, allowing an aggregated evaluation of crop sequence diversity. This information can then be used in ex-post and ex-ante policy assessments. The typology requires matching plots over the years, which we did by using the approach of the largest overlap, conserving the actual plot structure. The approach and part of the input data have been published in a data article.
+
+##### *Main data sources to produce the data*
+
+Data from the Integrated Administration and Control System (IACS), covering the shape and location of plots as well as the grown crops.
+
+##### *Article*
+
+Pahmeyer, C., Kuhn, T., Storm, H., 2025. A crop sequence dataset of the German federal state of North Rhine-Westphalia from 2019 to 2024. Data in Brief 60, 111617. [https://doi.org/10.1016/j.dib.2025.111617]
+
+Kuhn, T., Adenäuer, L.; Egenolf, K.; Gömann, H.; Pahmeyer, C.; Storm, H. 2025. Using a Crop Sequence Typology to Assess Agri-Environmental Policies for Crop Diversification, under review.
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: North Rhine-Westphalia - Federal state of Germany
+Temporal coverage: 2015 to 2024 (2025 forthcoming)
+
+##### *Resolution*
+
+Field-level parcel data, which can be aggregated to different administrative units
+
+##### *Data*
+
+The complete data cannot be published due to confidentiality requirements. However, the methodology to match plots over the years and a six-year data set, which is not sufficient to derive the typology, is available at [https://zenodo.org/records/15011155]
+
+Furthermore, typology results for 2019 to 2025 will be published in Data in Brief, as IACS data of North Rhine-Westphalia is publicly available from 2019 onwards. 
+
 ## Water use                          
 
 ## Nutrient flows                     
@@ -111,8 +142,10 @@ Field level parcel data of different size.
 
 ## Climate                            
 
+[https://doi.org/10.1016/j.dib.2025.111617]:https://doi.org/10.1016/j.dib.2025.111617
+[https://zenodo.org/records/15011155]:https://zenodo.org/records/15011155
 [https://doi.org/10.5281/zenodo.10609590]:https://doi.org/10.5281/zenodo.10609590
-[DOI:10.1007/s41064-023-00247-x]:DOI:10.1007/s41064-023-00247-x
+[DOI:10.1007/s41064-023-00247-x]:https://doi.org/10.1007/s41064-023-00247-x
 [Agricultural land use]:https://atlas.thuenen.de/catalogue/#/dataset/205
 [Mowing events map]:https://atlas.thuenen.de/catalogue/#/dataset/215
 [https://doi.org/10.5281/zenodo.10617622]:https://doi.org/10.5281/zenodo.10617622

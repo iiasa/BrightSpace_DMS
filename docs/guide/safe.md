@@ -101,7 +101,7 @@ Spatial coverage: Lower Saxony - Federal state of Germany.
 
 Field level parcel data of different size.
 
-### *Approach: Crop Sequence Typology*
+### *Approach: crop sequence typology*
 
 ##### *Description*
 

@@ -30,7 +30,7 @@ Farm level data.
 
 Contact address: hugo.storm@ilr.uni-bonn.de
 
-## *Current Application: Examining Field Structural Change*
+## *Current application: examining field structural change*
 
 ##### *Description*
 
@@ -57,3 +57,4 @@ Possibility of publication of the complete data is still under review.
 ##### *Contact*
 
 Contact address: damilola.aladesuru@ilr.uni-bonn.de
+

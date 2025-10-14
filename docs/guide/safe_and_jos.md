@@ -58,3 +58,39 @@ Possibility of publication of the complete data is still under review.
 
 Contact address: damilola.aladesuru@ilr.uni-bonn.de
 
+## Productivity and output growth (JOS) and fertilizer and pesticides use (SOS)
+
+### *Approach: Total Factor Productivity - A Flexible Production Function with Endogenous Inputs*
+
+##### *Description*
+
+Total factor productivity (TFP) is a crucial indicator for investigating the economic consequences of sustainable practices. We analyse output and total factor productivity growth using Farm Accountancy Data Network (FADN) data on Czech cereal farms from 2008 to 2020. Treating pesticides and fertilisers as endogenous inputs, we propose an approach that employs a flexible translog production function in combination with a proxy-variable method. This approach generates robust results that strengthen the evidence base essential for data-driven
+agricultural policy formulation. 
+
+##### *Main data sources to produce the data*
+
+Among others
+* Farm Accountancy Data Network and Eurostat
+
+##### *Article*
+
+Čechura, L., Kumbhakar, S., & Žáková Kroupová, Z. (2025). The role of pesticides and fertilizers in Czech cereal output and TFP growth: A
+flexible production function with endogenous inputs. Food Policy, 136, 102955, [https://doi.org/10.1016/j.foodpol.2025.102955]
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: Czech Republic. 
+
+Temporal coverage: 2008-2020.
+
+##### *Resolution*
+
+Farm level data.
+
+##### *Data*
+
+The data are available from the Farm Accountancy Data Network – Czech Republic. However, access to these data is restricted as they were used under license. Data can be obtained from the authors with permission from the Institute of Agricultural Economics and Information.
+
+[https://doi.org/10.1016/j.foodpol.2025.102955]:https://doi.org/10.1016/j.foodpol.2025.102955
+
+

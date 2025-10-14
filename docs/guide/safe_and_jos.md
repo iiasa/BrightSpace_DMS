@@ -58,7 +58,7 @@ Possibility of publication of the complete data is still under review.
 
 Contact address: damilola.aladesuru@ilr.uni-bonn.de
 
-## Productivity and output growth (JOS) and fertilizer and pesticides use (SOS)
+## *Productivity and output growth (JOS) and fertilizer and pesticides use (SOS)*
 
 ### *Approach: Total Factor Productivity - A Flexible Production Function with Endogenous Inputs*
 
@@ -92,5 +92,6 @@ Farm level data.
 The data are available from the Farm Accountancy Data Network – Czech Republic. However, access to these data is restricted as they were used under license. Data can be obtained from the authors with permission from the Institute of Agricultural Economics and Information.
 
 [https://doi.org/10.1016/j.foodpol.2025.102955]:https://doi.org/10.1016/j.foodpol.2025.102955
+
 
 

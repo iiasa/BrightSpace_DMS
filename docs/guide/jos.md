@@ -49,7 +49,7 @@ TBD
 
 ## Nutrition security 
 
-### *Food waste - Approach: Food loss and waste*
+### Food waste - Food loss and waste
 
 ##### *Description*
 

@@ -14,7 +14,7 @@ Data is protected (more than 15 obs. per observation unit).
 ##### *Main data sources to produce the data*
 
 * Individual FADN data
-* Farm Structure Spatial Units (FSU) established in the VERIFY project ([link_FSU])
+* Farm Structure Spatial Units (FSU) established in the VERIFY project ([https://verify.lsce.ipsl.fr/])
 * CAPDIS for information on land use and yields (Britz, W., Witzke, P.  (2014). CAPRI model documentation 2014)
     * Information on land use in the FSU is calculated calculated through the Land Area Prediction model (LAPM), based on the methods of Lamboni et al. (2016: Lamboni, M. R. Koeble, A. Leip (2016).
     * Multi-scale land-use disaggregation modelling: concept and application to EU countries. Environmental Modelling & Software 82, 183-217. [https://doi.org/10.1016/j.envsoft.2016.04.028]), and assessing its accuracy (Leip et al., 2017: Leip, A., Koeble, R., Rotllan-Puig, X., 2017. Land Area Prediction model (LAPM) Accuracy Assessment. European Commission, Ispra (VA), Italy. [https://doi.org/10.2760/624482]). 
@@ -73,7 +73,7 @@ Supply chain stages: Primary Production, Processing and manufacturing & retail d
 
 ##### *Data*
 
-Ferrer-Pérez, Hugo; Philippidis, George (2025): EU Food Loss and Waste (FLW) Panel Data (2003–2022): Estimates and Drivers. Agrifood Center of Aragon (CITA) [https://doi.org/10.5281/zenodo.17483053].
+Ferrer-Pérez, Hugo; Philippidis, George (2025): EU Food Loss and Waste (FLW) Panel Data (2003–2022): Estimates and Drivers. Agrifood Center of Aragon (CITA) [Dataset: Zenodo[https://doi.org/10.5281/zenodo.17483053]].
 
 ##### *Visualization*
 
@@ -398,7 +398,7 @@ TBD
 
 
 [FADN SPATIAL]: https://humusklimanetz-couch.thuenen.de/fadn-spatial/
-[link_FSU]: https://verify.lsce.ipsl.fr/
+[https://verify.lsce.ipsl.fr/]: https://verify.lsce.ipsl.fr/
 [D3.1 Report on stocktake of requirements and technical specifications for the LUM policy database]: https://www.lamasus.eu/wp-content/uploads/LAMASUS_D3.1-Report-on-Stocktake-of-Requirements-and-Technical-Specifications-for-the-LUM-Policy-Database.pdf
 [LAMASUS project]: https://www.lamasus.eu/
 [https://doi.org/10.1016/j.envsoft.2016.04.028]: https://doi.org/10.1016/j.envsoft.2016.04.028

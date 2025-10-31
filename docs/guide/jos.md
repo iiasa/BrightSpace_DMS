@@ -53,7 +53,7 @@ TBD
 
 ##### *Description*
 
-Panel dataset of modeled estimates of annual food loss and waste (FLW) along the supply chain (primary production, processing and manufacturing-retail and distribution, household consumption) by EU Member State. The food loss and waste values are modelled results ([extracted from Sala and De Laurentiis, (2024)- Food waste estimates model results -model version 3.0-]) that enable comparative temporal analysis (series 2003–2022) and the assessment of trends and socioeconomic and demographic drivers of FLW. This information is suitable to identify critical stages in the food chain and to support policy design for prevention and reduction of food waste.
+Panel dataset of modeled estimates of annual food loss and waste (FLW) along the supply chain (primary production, processing and manufacturing-retail and distribution, household consumption) by EU Member State. The food loss and waste values are modelled results (extracted from [Sala and De Laurentiis, (2024)- Food waste estimates model results -model version 3.0-]) that enable comparative temporal analysis (series 2003–2022) and the assessment of trends and socioeconomic and demographic drivers of FLW. This information is suitable to identify critical stages in the food chain and to support policy design for prevention and reduction of food waste.
 
 ##### *Main data sources to produce the data*
 

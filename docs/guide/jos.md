@@ -73,7 +73,7 @@ Supply chain stages: Primary Production, Processing and manufacturing & retail d
 
 ##### *Data*
 
-Ferrer-Pérez, Hugo; Philippidis, George (2025): EU Food Loss and Waste (FLW) Panel Data (2003–2022): Estimates and Drivers. Agrifood Center of Aragon (CITA) [Dataset: Zenodo[https://doi.org/10.5281/zenodo.17483053]].
+Ferrer-Pérez, Hugo; Philippidis, George (2025): EU Food Loss and Waste (FLW) Panel Data (2003–2022): Estimates and Drivers. Agrifood Center of Aragon (CITA) [Dataset: Zenodo ([https://doi.org/10.5281/zenodo.17483053])].
 
 ##### *Visualization*
 

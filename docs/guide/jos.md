@@ -218,7 +218,11 @@ TBD
 
 ### Animal welfare
 
-TO BE ADDED
+#### Poultry Welfare
+
+##### Approach
+
+Adding the suffering of chicken through the integration of the [Welfare Footprint Project](https://welfarefootprint.org/broilers/) into the IMAGE-land poultry module to calculate the years of annoying, hurtful, disabling and excruciating pain broiler poultry is suffering in industrial production.
 
                    
 ## Economy            

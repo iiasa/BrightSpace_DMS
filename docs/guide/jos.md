@@ -220,7 +220,7 @@ TBD
 
 #### Poultry Welfare
 
-##### Description
+##### *Description*
 
 Adding the suffering of chicken through the integration of the [Welfare Footprint Project](https://welfarefootprint.org/broilers/) into the [IMAGE-land](https://models.pbl.nl/image/Framework_overview) poultry module to calculate the years of annoying, hurtful, disabling and excruciating pain broiler poultry is suffering in industrial production.
 

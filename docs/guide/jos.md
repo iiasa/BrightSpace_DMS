@@ -186,23 +186,24 @@ TBD
 
 TO BE ADDED
 
-### Obesity
+### *Obesity*
 
 ##### *Description*
-
-Two partly overlapping approaches were developed to create an overweight and obesity indicator in MAGNET. The first approach employs nation-wide European Health Information Survey (EHIS) sample microdata with information on individual heights and weights to generate BMI population distributions of body mass index (BMI) for each of the European Union (EU) member states. The second approach has less detail on the EU but has the advantage that it has global coverage and therefore can also be applied to assess changes in overweight and obesity in other countries (e.g. trade-partners) that are affected by EU (trade) policies. It builds on the work of Springmann, Wiebe, et al. (2018), who projected the prevalence of overweight and obesity by estimating the relationship between total calorie energy consumption and mean BMI in combination with assumptions on the distribution of BMI. This approach is extended by estimating an hierarchical general additive model (HGAM), which relates historical information on GDP per capita, kilocalorie and demographic change to parameters of that determine the distribution of BMI.
+This paper estimates the health and environmental benefits from reducing sugar intake in EU households. A CGE model is modified by linking probability density functions of body mass index for EU populations to a complete demand system with nutrition accounting. Following the WHO recommendation, sugar intake is reduced to 10% of total dietary energy intake, whilst two further scenarios explore more ambitious targets of 7.5% and 5%. This dietary transition leads to a relative reduction in overweight and obese EU adults of between 8 and 15 million by 2050, with potentially significant health gains in Scandinavia. Environmental ‘footprints’ reveal relative land and emissions savings of up to 56m2 and 20 kgCO2e per capita per year by 2050. With scientific evidence supporting a virtuous circle of improved health, higher wages and increased macroeconomic performance, the reported negative impacts on economic indicators in this study could be reversed through targeted redistributive policies.
 
 ##### *Main data sources to produce the data*
 
-Historical data on mean BMI and BMI distribution, SSP2 database, MAGNET model
+European Health Information Survey (EHIS) sample microdata with information on individual heights and weights to generate BMI population distributions of body mass index (BMI) for each of the European Union (EU) member states, SSP2 database, MAGNET model
 
 ##### *Article*
 
-TBD
+Philippidis, G., & Sanjuán-López, A. I. (2025). An ex-ante study on the impacts of reduced EU sugar consumption: a sweet mix of health and environmental benefits. Economic Systems Research, 37(2), 196-222. [https://doi.org/10.1080/09535314.2024.2429378]
 
 ##### *Temporal and spatial coverage*
 
-Temporal coverage: 2017-2050. Spatial coverage: Global, EU member states.
+Spatial coverage: EU member states. 
+
+Temporal coverage: 2019-2050. Spatial coverage: Global, EU member states.
 
 ##### *Resolution*
 
@@ -210,11 +211,12 @@ Country
 
 ##### *Data*
 
-TBD
+Nation-wide European Health Information Survey (EHIS) microdata wave 2019. MAGNET
 
 ##### *Visualization*
 
-TBD                   
+Not applicable
+
 
 ### Animal welfare
 
@@ -357,23 +359,25 @@ TBD
 
 TBD
 
-### Education
+### *Education*
 
 ##### *Description*
 
-As an indicator for education, the post-secondary educational attainment rate between 25-29 year old was selected. Projections for this indicator are produced by combining MAGNET projections with a lasso regression analysis approach that estimates the relationship between the education indicator and key drivers.
+Educational attainment is proxied by the post-secondary education rate among individuals aged 25–29. An ex‑post analysis of its determinants, using a double‑lasso approach, show that economic growth, lower agricultural employment, higher education expenditure and trade openness, raise post-secondary education attainment rates amongst 25–29-year-olds. Projections from the Wittgenstein Centre are subsequently integrated into the MAGNET model. When these projections are combined with the elasticities derived from the econometric analysis, a global‑slowdown scenario yields a deterioration in the indicator.
 
 ##### *Main data sources to produce the data*
 
-World Population Prospects, SSP database, World Development Indicators, EUROSTAT SDG database, MAGNET projections.
+Wittgenstein Centre for demography and global human capital, World Population Prospects, SSP database, World Development Indicators.
 
 ##### *Article*
 
-TBD
+Revise and Resubmit
 
 ##### *Temporal and spatial coverage*
 
-Temporal coverage: 2017-2050. Spatial coverage: Global, EU member states.
+Spatial coverage: European countries (EU Member States plus Norway, Switzerland, and the United Kingdom). 
+
+Temporal coverage: 1995-2040.
 
 ##### *Resolution*
 
@@ -381,29 +385,32 @@ Country
 
 ##### *Data*
 
-TBD
+Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
 
 ##### *Visualization*
 
-TBD
+Not applicable
 
-### Gender equality
+
+### *Gender equality*
 
 ##### *Description*
 
-As an indicator for gender equality, the former, the gender wage gap, defined as the difference between average gross hourly earnings of male and female employees, divided by the average gross hourly earnings of male employees, was selected. Projections for this indicator are produced by combining MAGNET projections with a lasso regression analysis approach that estimates the relationship between the gender wage gap and key drivers.
+As an indicator of gender equality, we employ the unadjusted gender pay gap reported in Eurostat’s Sustainable Development Goal 5 (SDG 5) database. The gender wage gap is defined as the difference between the average gross hourly earnings of male and female employees, expressed relative to the average gross hourly earnings of men. The ex-post analysis of the drivers of this measure, conducted via double lasso approach identifies several factor with a reduction in the gender wage gap: higher economic growth, increases in agricultural employment, greater average years of schooling, a lower concentration of income among both the richest and poorest deciles, and a smaller number of large urban agglomerations. Projections for this indicator are obtained by combining MAGNET GDP projections, mean years of schooling from Wittgenstein database and in house projections for the additional drivers. These projections are introduced in MAGNET and a simulation of a global slowdown scenario indicates deterioration in the gender inequality indicator.    
 
 ##### *Main data sources to produce the data*
 
-World Population Prospects, SSP database, World Development Indicators, EUROSTAT SDG database, MAGNET projections.
+Wittgenstein Centre for demography and global human capital, World Population Prospects, SSP database, World Development Indicators, EUROSTAT SDG database, MAGNET GDP projections.
 
 ##### *Article*
 
-TBD
+Revise and Resubmit
 
 ##### *Temporal and spatial coverage*
 
-Temporal coverage: 2017-2050. Spatial coverage: Global, EU member states.
+Spatial coverage: European countries (EU Member States plus Norway, Switzerland, and the United Kingdom).
+
+Temporal coverage: 2002-2040.
 
 ##### *Resolution*
 
@@ -411,11 +418,12 @@ Country
 
 ##### *Data*
 
-TBD
+Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
 
 ##### *Visualization*
 
-TBD
+Not applicable
+
 
 
 [FADN SPATIAL]: https://humusklimanetz-couch.thuenen.de/fadn-spatial/
@@ -428,3 +436,5 @@ TBD
 [Eurostat database]: https://ec.europa.eu/eurostat/web/main/data/database
 [WHO]: https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index
 [Sala and De Laurentiis, (2024)]: http://data.europa.eu/89h/1f450ba2-d844-4873-8161-7f210a70474e
+[https://doi.org/10.5281/zenodo.18630283]: https://doi.org/10.5281/zenodo.18630283
+[https://doi.org/10.1080/09535314.2024.2429378]: https://doi.org/10.1080/09535314.2024.2429378

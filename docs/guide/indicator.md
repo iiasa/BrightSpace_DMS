@@ -8,7 +8,7 @@ Economy-related topics were divided into two thematic areas. The "General Econom
 
 | Thematic area                       | Indicator Domain                          |
 | ----------------------------------- | ----------------------------------------- |
-| Biodiversity                        | Genetic/Functional diversity (outcomes)   |
+| [Biodiversity](/guide/safe.md#biodiversity)                        | Genetic/Functional diversity (outcomes)   |
 |                                     | Land management (drivers)                 |
 | Land use                            | Land cover                                |
 |                                     | Soil health                               |

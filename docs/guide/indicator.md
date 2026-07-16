@@ -4,21 +4,21 @@ Based on a review of the Safe Operating Spaces (SOS) and Just Operating Spaces (
 
 Economy-related topics were divided into two thematic areas. The "General Economy" area addresses the relative position of agriculture compared to other sectors in terms of employment, value-added, wages, and input prices. Topics specific to the agricultural sector, such as farm incomes, economic viability, future prospects, and farm structure, are encompassed within the broader thematic area of "Farm resilience." The resulting thematic areas and indicator domains are detailed below.
 
-## Safe Operating Spaces Thematic Areas and Indicator Domains
+## [Safe Operating Spaces Thematic Areas and Indicator Domains](/guide/safe.md)
 
 | Thematic area                       | Indicator Domain                          |
 | ----------------------------------- | ----------------------------------------- |
 | [Biodiversity](/guide/safe.md#biodiversity)                        | Genetic/Functional diversity (outcomes)   |
 |                                     | Land management (drivers)                 |
-| Land use                            | Land cover                                |
+| [Land use](/guide/safe.md#land-use)                            | Land cover                                |
 |                                     | Soil health                               |
-| Water use                           | Water use                                 |
-| Nutrient flows                      | Nitrogen cycle                            |
+| [Water use](/guide/safe.md#water-use)                           | Water use                                 |
+| [Nutrient flows](/guide/safe.md#nutrient-flows)                      | Nitrogen cycle                            |
 |                                     | Phosphorus cycle                          |
-| Chemical pollution (novel entities) | Pesticide use                             |
+| [Chemical pollution (novel entities)](/guide/safe.md#chemical-pollution-novel-entities) | Pesticide use                             |
 |                                     | Antimicrobials                            |
-| Aerosol loading                     | Air pollution (Particulates)              |
-| Climate                             | GHG emissions                             |
+| [Aerosol loading](/guide/safe.md#aerosol-loading)                     | Air pollution (Particulates)              |
+| [Climate](/guide/safe.md#climate)                             | GHG emissions                             |
 
 
 ## Just Operating Spaces Thematic Areas and Indicator Domains

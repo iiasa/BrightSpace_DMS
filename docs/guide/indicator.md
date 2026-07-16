@@ -21,29 +21,29 @@ Economy-related topics were divided into two thematic areas. The "General Econom
 | [Climate](/guide/safe.md#climate)                             | GHG emissions                             |
 
 
-## Just Operating Spaces Thematic Areas and Indicator Domains
+## [Just Operating Spaces Thematic Areas and Indicator Domains](/guide/jos.md)
 
 | Thematic area       | Indicator Domain                           |
 | ------------------- | ------------------------------------------ |
-| Nutrition security  | Food availability                          |
+| [Nutrition security](/guide/jos.md#nutrition-security)  | Food availability                          |
 |                     | ... affordability                          |
 |                     | ... stability                              |
 |                     | Food waste                                 |
 |                     | Diet quality/food utilization              |
-| Health              | Life expectancy                            |
+| [Health](/guide/jos.md#health)              | Life expectancy                            |
 |                     | Obesity                                    |
 |                     | Animal welfare                             |
 |                     | Access to clean water                      |
-| Economy             | Sectoral employment                        |
+| [Economy](/guide/jos.md#economy)             | Sectoral employment                        |
 |                     | Sectoral productivity                      |
 |                     | Sectoral wages                             |
 |                     | Market organisation                        |
 |                     | Trade                                      |
 |                     | Energy access                              |
-| Farm resilience     | Farm income                                |
+| [Farm resilience](/guide/jos.md#farm-resilience)     | Farm income                                |
 |                     | Farm viability                             |
 |                     | Farm structure                             |
-| Social equity       | Income distribution (sectoral, spatial)    |
+| [Social equity](/guide/jos.md#social-equity)       | Income distribution (sectoral, spatial)    |
 |                     | Education                                  |
 |                     | Gender equality                            |
 

@@ -8,6 +8,8 @@
 
 Spatially explicit knowledge on grassland extent and management is critical to understand and monitor the impact of grassland use intensity on ecosystem services and biodiversity. While regional studies allow detailed insights into land use and ecosystem service interactions, information on a national scale can aid biodiversity assessments. However, for most European countries this information is not yet widely available. We used an analysis-ready-data cube that contains dense time series of co-registered Sentinel-2 and Landsat 8 data, covering the extent of Germany. We propose an algorithm that detects mowing events in the time series based on residuals from an assumed undisturbed phenology, as an indicator of grassland use intensity. 
 
+Rationale: This indicator is a proxy to evaluate or monitor grassland use intensity which could be useful for biodiversity evaluations
+
 ##### *Main data sources to produce the data*
 
 Among others
@@ -27,7 +29,13 @@ Temporal coverage: 2017-2021.
 
 Field level parcel data of different size for grass land.
 
+##### *Specificity*
+
+Model input or monitoring item
+
 ##### *Data*
+
+Type: estimated
 
 Schwieder, M., Lobert, F., Tetteh, G. O., & Erasmi, S. (2024). Grassland mowing events across Germany detected from combined Sentinel-2 and Landsat time series for the years 2017 - 2021 [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10609590]
 
@@ -42,6 +50,8 @@ Schwieder, M., Lobert, F., Tetteh, G. O., & Erasmi, S. (2024). Grassland mowing 
 ##### *Description*
 
 Based on the multi-year dataset major crop sequences of cereals and leaf crops are mapped. Most crop sequences were dominated by winter cereals followed by summer cereals. Monocultures of summer cereals were mainly revealed in the Northwest of Germany. It is showcased that high spatial and thematic detail in combination with annual mapping will stimulate research on crop cycles and studies to assess the impact of environmental policies on management decisions. The results demonstrate the capabilities of integrated optical time series and SAR data in combination with variables describing local and seasonal environmental conditions for annual large-area crop type mapping.
+
+Rationale: This indicator provides information to land use (and change) over time which is hardly provided by official statistics
 
 ##### *Main data sources to produce the data*
 
@@ -66,7 +76,13 @@ Temporal coverage: 2017-2021.
 
 Field level parcel data of different size.
 
+##### *Specificity*
+
+Model input or monitoring item
+
 ##### *Data*
+
+Type: estimated
 
 [https://doi.org/10.5281/zenodo.10617622]
 
@@ -80,7 +96,7 @@ Field level parcel data of different size.
 
 Effective monitoring of agricultural lands requires accurate spatial information about the locations and boundaries of agricultural fields. Through satellite imagery, such information can be mapped on a large scale at a high temporal frequency. Various methods exist in the literature for segmenting agricultural fields from satellite images. Edge-based, region-based, or hybrid segmentation methods are traditional methods that have widely been used for segmenting agricultural fields. Lately, the use of deep neural networks (DNNs) for various tasks in remote sensing has been gaining traction. Therefore, to identify the optimal method for segmenting agricultural fields from satellite images, we evaluated three state-of-the-art DNNs, namely Mask R-CNN, U-Net, and FracTAL ResUNet against the multi-resolution segmentation (MRS) algorithm, which is a region-based and a more traditional segmentation method. DNNs, particularly FracTAL ResUNet, can be effectively used for large-scale segmentation of agricultural fields from satellite images.
 
-This work is especially important for crop type detection.
+Rationale: This work is especially important for crop type detection.
 
 ##### *Main data sources to produce the data*
 
@@ -126,7 +142,13 @@ Temporal coverage: 2015 to 2024 (2025 forthcoming)
 
 Field-level parcel data, which can be aggregated to different administrative units
 
+##### *Specificity*
+
+Model input or monitoring item
+
 ##### *Data*
+
+Type: estimated
 
 The complete data cannot be published due to confidentiality requirements. However, the methodology to match plots over the years and a six-year data set, which is not sufficient to derive the typology, is available at [https://zenodo.org/records/15011155]
 

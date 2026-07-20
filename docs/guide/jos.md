@@ -11,6 +11,8 @@ FADN subsidies are part of farm income. As these data is only accessible at farm
 
 Data is protected (more than 15 obs. per observation unit).
 
+Rationale: Down scaled information can be used for other models which are otherwise not available.
+
 ##### *Main data sources to produce the data*
 
 * Individual FADN data
@@ -37,6 +39,12 @@ Temporal coverage: depending on progress. Actually 2001-2020 each second year.
 ##### *Resolution*
 
 Farm Structure Spatial Units (FSU). High resolution of grids of different size.
+
+##### *Data*
+
+Type: estimated
+
+Example: down scaled (FADN) policy payments at NUTS 3 level: [https://zenodo.org/records/16096563].
 
 ##### *Visualization*
 
@@ -438,3 +446,4 @@ Not applicable
 [Sala and De Laurentiis, (2024)]: http://data.europa.eu/89h/1f450ba2-d844-4873-8161-7f210a70474e
 [https://doi.org/10.5281/zenodo.18630283]: https://doi.org/10.5281/zenodo.18630283
 [https://doi.org/10.1080/09535314.2024.2429378]: https://doi.org/10.1080/09535314.2024.2429378
+[https://zenodo.org/records/16096563]: https://zenodo.org/records/16096563

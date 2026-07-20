@@ -96,7 +96,7 @@ Type: estimated
 
 Effective monitoring of agricultural lands requires accurate spatial information about the locations and boundaries of agricultural fields. Through satellite imagery, such information can be mapped on a large scale at a high temporal frequency. Various methods exist in the literature for segmenting agricultural fields from satellite images. Edge-based, region-based, or hybrid segmentation methods are traditional methods that have widely been used for segmenting agricultural fields. Lately, the use of deep neural networks (DNNs) for various tasks in remote sensing has been gaining traction. Therefore, to identify the optimal method for segmenting agricultural fields from satellite images, we evaluated three state-of-the-art DNNs, namely Mask R-CNN, U-Net, and FracTAL ResUNet against the multi-resolution segmentation (MRS) algorithm, which is a region-based and a more traditional segmentation method. DNNs, particularly FracTAL ResUNet, can be effectively used for large-scale segmentation of agricultural fields from satellite images.
 
-This work is especially important for crop type detection.
+Rationale: This work is especially important for crop type detection.
 
 ##### *Main data sources to produce the data*
 
@@ -116,6 +116,10 @@ Spatial coverage: Lower Saxony - Federal state of Germany.
 ##### *Resolution*
 
 Field level parcel data of different size.
+
+##### *Specificity*
+
+Model input or monitoring item
 
 ### *Approach: crop sequence typology*
 

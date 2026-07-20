@@ -46,6 +46,10 @@ Type: estimated
 
 Example: down scaled (FADN) policy payments at NUTS 3 level: [https://zenodo.org/records/16096563].
 
+##### *Specificity*
+
+Model input or monitoring item
+
 ##### *Visualization*
 
 [FADN SPATIAL]

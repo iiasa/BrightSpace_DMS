@@ -127,9 +127,11 @@ Model input or monitoring item
 
 Temporal crop diversity has numerous environmental benefits and is fostered by different agri-environmental policy measures. To monitor policy impacts and design effective measures, knowledge of the actual status of crop sequences is crucial. Here, we provide the results of applying a crop sequence typology developed by Stein & Steinmann (2018) to the German federal state of North Rhine-Westphalia. The typology categorizes every crop sequence according to its functional and structural diversity, allowing an aggregated evaluation of crop sequence diversity. This information can then be used in ex-post and ex-ante policy assessments. The typology requires matching plots over the years, which we did by using the approach of the largest overlap, conserving the actual plot structure. The approach and part of the input data have been published in a data article.
 
+Rationale: This indicator can be used in ex-post and ex-ante policy assessments.
+
 ##### *Main data sources to produce the data*
 
-Data from the Integrated Administration and Control System (IACS), covering the shape and location of plots as well as the grown crops.
+Integrated Administration and Control System (IACS).
 
 ##### *Article*
 
@@ -139,18 +141,22 @@ Kuhn, T., Adenäuer, L.; Egenolf, K.; Gömann, H.; Pahmeyer, C.; Storm, H. 2025.
 
 ##### *Temporal and spatial coverage*
 
-Spatial coverage: North Rhine-Westphalia - Federal state of Germany
-Temporal coverage: 2015 to 2024 (2025 forthcoming)
+Spatial coverage: North Rhine-Westphalia, Germany.
+Temporal coverage: 2015 to 2024.
 
 ##### *Resolution*
 
-Field-level parcel data, which can be aggregated to different administrative units
+Field-level parcel data, which can be aggregated to different administrative units.
+
+##### *Specificity*
+
+Model input item
 
 ##### *Data*
 
-The complete data cannot be published due to confidentiality requirements. However, the methodology to match plots over the years and a six-year data set, which is not sufficient to derive the typology, is available at [https://zenodo.org/records/15011155]
+Type: secondary
 
-Furthermore, typology results for 2019 to 2025 will be published in Data in Brief, as IACS data of North Rhine-Westphalia is publicly available from 2019 onwards. 
+The complete data cannot be published due to confidentiality requirements. However, the methodology to match plots over the years and a six-year data set, which is not sufficient to derive the typology, is available at [https://zenodo.org/records/15011155]
 
 ## Water use                          
 

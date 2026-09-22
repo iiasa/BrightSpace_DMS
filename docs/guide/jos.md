@@ -228,6 +228,8 @@ Model input or monitoring item
 Type: collected
 
 ##### *Visualization*
+
+No visualization
                    
 ## Health             
                    

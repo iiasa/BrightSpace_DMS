@@ -191,6 +191,43 @@ TBD
 
 TBD
 
+### Diet quality/food utilization
+
+#### *Approach: Meat purchase behaviour in lab supermarket setting* 
+
+##### *Description*
+
+One often discussed policy measure to steer meat consumption for health and environmental reasons are meat taxes. However, while theoretically an increase in meat prices initiates a decrease in meat consumption, empirical insights are scarce, as no meat tax has been implemented yet. Here, we quantify the effect of four meat tax levels (7\%, 19\%, 50\%, 100\%) on consumers food choices in the experimental setting of a physical in-person laboratory supermarket. This set-up allows to isolate the effect of price changes on meat purchases in a realistic setting and also to collect additional data on participants’ decision-making process in a subsequent survey. Concretely, we applied a within- and between-subject design, where each participant fulfills two rounds of shopping based on a pre-defined shopping task. Between the two rounds, meat prices change based on the treatment group. 
+
+Rationale: This indicator is a proxy to evaluate or monitor meat purchase behavior
+
+##### *Main data sources to produce the data*
+
+Own data collected in the lab Supermarket of the University of Bonn in spring 2026
+
+##### *Article*
+
+NO ARTICLE YET
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: Germany, Bonn. 
+
+Temporal coverage: Spring 2026.
+
+##### *Resolution*
+
+Experimental purchase and survey data for individuals including basket composition, shopping behaviour, personal and household characteristics, and attitudes.
+
+##### *Specificity*
+
+Model input or monitoring item
+
+##### *Data*
+
+Type: collected
+
+##### *Visualization*
                    
 ## Health             
                    

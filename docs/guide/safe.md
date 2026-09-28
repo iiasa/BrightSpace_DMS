@@ -221,3 +221,5 @@ The complete data cannot be published due to confidentiality requirements. Howev
 [https://doi.org/10.1016/j.rse.2021.112795]:https://doi.org/10.1016/j.rse.2021.112795
 [DOI:10.1016/j.rse.2021.112831]:https://doi.org/10.1016/j.rse.2021.112831
 [Pham et al. (2024)]:https://doi.org/10.1016/j.jag.2024.103867
+[https://doi.org/10.5281/zenodo.20815676]:https://doi.org/10.5281/zenodo.20815676
+[DOI:10.1007/s41064-023-00247-x]:https://doi.org/10.1007/s41064-023-00247-x

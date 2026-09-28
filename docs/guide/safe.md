@@ -106,7 +106,7 @@ Among others
 
 ##### *Article*
 
-Tetteh, G.O., Pham, VD., Schwieder, M. et al. Nationwide annual agricultural land-use maps of Germany from 1990 to 2023 derived from satellite imagery. Sci Data 13, 1353 (2026). [DOI:https://doi.org/10.1038/s41597-026-08375-w]
+Tetteh, G.O., Pham, VD., Schwieder, M. et al. Nationwide annual agricultural land-use maps of Germany from 1990 to 2023 derived from satellite imagery. Sci Data 13, 1353 (2026). [DOI:10.1038/s41597-026-08375-w]
 
 ##### *Temporal and spatial coverage*
 
@@ -126,7 +126,7 @@ Model input or monitoring item
 
 Type: estimated
 
-[https://zenodo.org/records/20815677]
+[https://doi.org/10.5281/zenodo.20815676]
 
 ##### *Visualization*
 

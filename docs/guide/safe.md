@@ -89,7 +89,49 @@ Type: estimated
 ##### *Visualization*
 
 [Agricultural land use]
-                                   
+
+### *Approach: crop type detection - enhancement*
+
+##### *Description*
+
+(Copied from description of Zenodo entry) This repository contains the annual agricultural land-use (LU) maps of Germany from 1990 to 2023, created from a time series of Landsat and Sentinel-2 images using the deep learning approach described in [Pham et al. (2024)]. Each LU map contains 14 LU types, namely winter cereals, summer cereals, maize, grassland, potato, sugar beet, rapeseed, sunflower, legumes, horticultural crops, fallow land, vineyards, hops, and plantations. This dataset provides a consistent, spatially explicit record of agricultural land use over more than three decades and can support studies of agricultural change, land-use dynamics, biodiversity, ecosystem services, climate impacts, and agricultural policy evaluation.
+
+Rationale: This indicator provides information to land use (and change) over time which is hardly provided by official statistics
+
+##### *Main data sources to produce the data*
+
+Among others
+* Sentinel-2 and Landsat 8 data
+* Reference data: Integrated Administration and Control System (IACS)
+
+##### *Article*
+
+Tetteh, G.O., Pham, VD., Schwieder, M. et al. Nationwide annual agricultural land-use maps of Germany from 1990 to 2023 derived from satellite imagery. Sci Data 13, 1353 (2026). [DOI:https://doi.org/10.1038/s41597-026-08375-w]
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: Germany. 
+
+Temporal coverage: 1990-2023.
+
+##### *Resolution*
+
+Field level parcel data of different size.
+
+##### *Specificity*
+
+Model input or monitoring item
+
+##### *Data*
+
+Type: estimated
+
+[https://zenodo.org/records/20815677]
+
+##### *Visualization*
+
+[Agricultural land use_enhanced]
+
 ### *Approach: parcel segmentation*
 
 ##### *Description*
@@ -173,7 +215,9 @@ The complete data cannot be published due to confidentiality requirements. Howev
 [https://doi.org/10.5281/zenodo.10609590]:https://doi.org/10.5281/zenodo.10609590
 [DOI:10.1007/s41064-023-00247-x]:https://doi.org/10.1007/s41064-023-00247-x
 [Agricultural land use]:https://atlas.thuenen.de/catalogue/#/dataset/205
+[Agricultural land use_enhanced]:https://eodata.thuenen.de/browser/collections/hist-crop-type-map
 [Mowing events map]:https://atlas.thuenen.de/catalogue/#/dataset/215
 [https://doi.org/10.5281/zenodo.10617622]:https://doi.org/10.5281/zenodo.10617622
 [https://doi.org/10.1016/j.rse.2021.112795]:https://doi.org/10.1016/j.rse.2021.112795
 [DOI:10.1016/j.rse.2021.112831]:https://doi.org/10.1016/j.rse.2021.112831
+[Pham et al. (2024)]:https://doi.org/10.1016/j.jag.2024.103867

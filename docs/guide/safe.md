@@ -214,6 +214,7 @@ The complete data cannot be published due to confidentiality requirements. Howev
 [https://zenodo.org/records/15011155]:https://zenodo.org/records/15011155
 [https://doi.org/10.5281/zenodo.10609590]:https://doi.org/10.5281/zenodo.10609590
 [DOI:10.1007/s41064-023-00247-x]:https://doi.org/10.1007/s41064-023-00247-x
+[DOI:10.1038/s41597-026-08375-w]:https://doi.org/10.1038/s41597-026-08375-w
 [Agricultural land use]:https://atlas.thuenen.de/catalogue/#/dataset/205
 [Agricultural land use_enhanced]:https://eodata.thuenen.de/browser/collections/hist-crop-type-map
 [Mowing events map]:https://atlas.thuenen.de/catalogue/#/dataset/215
@@ -222,4 +223,3 @@ The complete data cannot be published due to confidentiality requirements. Howev
 [DOI:10.1016/j.rse.2021.112831]:https://doi.org/10.1016/j.rse.2021.112831
 [Pham et al. (2024)]:https://doi.org/10.1016/j.jag.2024.103867
 [https://doi.org/10.5281/zenodo.20815676]:https://doi.org/10.5281/zenodo.20815676
-[DOI:10.1007/s41064-023-00247-x]:https://doi.org/10.1007/s41064-023-00247-x

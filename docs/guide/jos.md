@@ -366,14 +366,89 @@ TBD
 
 TBD
 
-### Trade
-
-TO BE ADDED
-
 ### Energy access
 
 TO BE ADDED                   
 
+### *Trade I*
+
+##### *Description*
+
+As an indicator of trade effects, we investigate the impact of pesticide regulations, measured through maximum residue levels (MRLs), on the competitiveness of European Union (EU) agri-food sectors. Using a novel dataset combining EU and Codex standards for 193 pesticides across 117 HS6 products (2010–2023), and incorporating hazard classifications, we construct indices of regulatory stringency. Competitiveness is evaluated through multiple revealed comparative advantage (RCA) indicators. Results show a predominantly negative relationship between MRL stringency and EU competitiveness, particularly for highly and extremely hazardous pesticides, reflecting increased compliance costs and reduced export shares. However, country’s intrinsic comparative advantage measures indicate positive effects for extremely and highly hazardous pesticides, suggesting selection mechanisms where more productive regions, sectors or firms remain and expand. The impact varies across sectors and regions: fruits and vegetables are most negatively affected, while cereals and oilseeds are more resilient, with the Mediterranean region performing better. Overall, stricter MRLs reshape  competitiveness, with important implications for EU trade policy the design of regulatory measures such as mirror clauses.
+
+Rationale: MRL stringency indicators with respect to international standards affects EU agri-food competitiveness and the design of mirror clauses.
+
+##### *Main data sources to produce the data*
+
+Eurostat pesticides and active substances database and FAO-WHO Codex Alimentarius database (FAO-WHO, 2025)
+
+##### *Article*
+
+Sanjuán López, A. I., Garcés Iriarte, I., & Philippidis, G. (2026). The EU MRLs on pesticides and EU competitiveness - Discussion paper (Version v01). BrightSpace Horizon Europe project Grant Agreement No. 101060075. [https://doi.org/10.5281/zenodo.19814333]. Submitted to a journal.
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: European countries (EU Member States and the United Kingdom) and an international benchmark from Codex to compare.
+
+Temporal coverage: 2010-2023.
+
+##### *Resolution*
+
+ EU aggregate and an international benchmark from Codex to compare.
+
+##### *Specificity*
+
+Monitoring item
+
+##### *Data*
+
+Type: Secondary
+
+The final dataset is restricted to 193 pesticides regulated in both EU and Codex, affecting 117 HS6 commodities, between the years 2010 to 2023. To further refine the analysis, we classify pesticides by their level of hazardousness (i.e. extremely, highly, moderately, slightly and unlikely to present risks) based on WHO (2020). 
+
+##### *Visualization*
+
+Not applicable
+
+### *Trade II*
+
+##### *Description*
+
+As an indicator of the heterogeneous trade impact of SPS measures as a function of the countries’ stage of economic development. A key novelty is that it quantifies the potential trade cost savings attained by closer regulatory frameworks, distinguishing between SPS measures that are more generally adopted (i.e., international) and those that are less prevalent across trading partners and products (i.e., regional).
+
+Rationale: Trade cost savings indicators of regulatory convergence in SPS measures informs trade policy. 
+
+##### *Main data sources to produce the data*
+
+The Global UNCTAD NTMs database (UNCTAD, 2018), UN ComTrade, GTAP dataset, CEPII
+
+##### *Article*
+
+Sanjuán, A. I., & Philippidis, G. (2026). Potential savings from NTM harmonisation - Discussion paper (Version v01). BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.19730554]. Subimtted to a journal.
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: 102 exporters
+
+Temporal coverage: 2011, 2014 and 2017
+
+##### *Resolution*
+
+Country
+
+##### *Specificity*
+
+Monitoring item
+
+##### *Data*
+
+Type: Secondary
+
+The final panel dataset includes 102 exporters, 87 importers, 720 HS6 sectors aggregated into 24 HS2  chapters, for the years 2011, 2014 and 2017. Intra-EU trade is excluded from the analysis, because of its large trade weight, accounting for more than 40% in some specific sectors (chapters 01, 04, 06 and 19), and approximately 30% of global agrifood trade in the sample.
+
+##### *Visualization*
+
+Not applicable
                    
 ## Social equity    
 
@@ -416,13 +491,15 @@ TBD
 
 Educational attainment is proxied by the post-secondary education rate among individuals aged 25–29. An ex‑post analysis of its determinants, using a double‑lasso approach, show that economic growth, lower agricultural employment, higher education expenditure and trade openness, raise post-secondary education attainment rates amongst 25–29-year-olds. Projections from the Wittgenstein Centre are subsequently integrated into the MAGNET model. When these projections are combined with the elasticities derived from the econometric analysis, a global‑slowdown scenario yields a deterioration in the indicator.
 
+Rationale: Post-secondary education indicators, drivers and future education trends affect macroeconomic performance.
+
 ##### *Main data sources to produce the data*
 
 Wittgenstein Centre for demography and global human capital, World Population Prospects, SSP database, World Development Indicators.
 
 ##### *Article*
 
-Revise and Resubmit
+Garcés, I., Philippidis, G., Sanjuán, A.I. et al. Bridging ex-post and ex-ante EU social indicator trends: an explorative modelling analysis for SDG4 and SDG5. Humanities and Social Sciences Communications (2026). [https://doi.org/10.1057/s41599-026-08097-9]
 
 ##### *Temporal and spatial coverage*
 
@@ -434,7 +511,13 @@ Temporal coverage: 1995-2040.
 
 Country
 
+##### *Specificity*
+
+Model input 
+
 ##### *Data*
+
+Type: Secondary
 
 Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
 
@@ -449,13 +532,15 @@ Not applicable
 
 As an indicator of gender equality, we employ the unadjusted gender pay gap reported in Eurostat’s Sustainable Development Goal 5 (SDG 5) database. The gender wage gap is defined as the difference between the average gross hourly earnings of male and female employees, expressed relative to the average gross hourly earnings of men. The ex-post analysis of the drivers of this measure, conducted via double lasso approach identifies several factor with a reduction in the gender wage gap: higher economic growth, increases in agricultural employment, greater average years of schooling, a lower concentration of income among both the richest and poorest deciles, and a smaller number of large urban agglomerations. Projections for this indicator are obtained by combining MAGNET GDP projections, mean years of schooling from Wittgenstein database and in house projections for the additional drivers. These projections are introduced in MAGNET and a simulation of a global slowdown scenario indicates deterioration in the gender inequality indicator.    
 
+Rationale: Gender pay-gap indicator, drivers and future trends affect macroeconomic performance.
+
 ##### *Main data sources to produce the data*
 
 Wittgenstein Centre for demography and global human capital, World Population Prospects, SSP database, World Development Indicators, EUROSTAT SDG database, MAGNET GDP projections.
 
 ##### *Article*
 
-Revise and Resubmit
+Garcés, I., Philippidis, G., Sanjuán, A.I. et al. Bridging ex-post and ex-ante EU social indicator trends: an explorative modelling analysis for SDG4 and SDG5. Humanities and Social Sciences Communications (2026). [https://doi.org/10.1057/s41599-026-08097-9]
 
 ##### *Temporal and spatial coverage*
 
@@ -467,7 +552,13 @@ Temporal coverage: 2002-2040.
 
 Country
 
+##### *Specificity*
+
+Model input 
+
 ##### *Data*
+
+Type: Secondary
 
 Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
 
@@ -490,3 +581,6 @@ Not applicable
 [https://doi.org/10.5281/zenodo.18630283]: https://doi.org/10.5281/zenodo.18630283
 [https://doi.org/10.1080/09535314.2024.2429378]: https://doi.org/10.1080/09535314.2024.2429378
 [https://zenodo.org/records/16096563]: https://zenodo.org/records/16096563
+[https://doi.org/10.1057/s41599-026-08097-9]: https://doi.org/10.1057/s41599-026-08097-9
+[https://doi.org/10.5281/zenodo.19814333]: https://doi.org/10.5281/zenodo.19814333
+[https://doi.org/10.5281/zenodo.19730554]: https://doi.org/10.5281/zenodo.19730554

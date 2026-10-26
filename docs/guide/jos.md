@@ -242,6 +242,8 @@ TO BE ADDED
 ##### *Description*
 This paper estimates the health and environmental benefits from reducing sugar intake in EU households. A CGE model is modified by linking probability density functions of body mass index for EU populations to a complete demand system with nutrition accounting. Following the WHO recommendation, sugar intake is reduced to 10% of total dietary energy intake, whilst two further scenarios explore more ambitious targets of 7.5% and 5%. This dietary transition leads to a relative reduction in overweight and obese EU adults of between 8 and 15 million by 2050, with potentially significant health gains in Scandinavia. Environmental ‘footprints’ reveal relative land and emissions savings of up to 56m2 and 20 kgCO2e per capita per year by 2050. With scientific evidence supporting a virtuous circle of improved health, higher wages and increased macroeconomic performance, the reported negative impacts on economic indicators in this study could be reversed through targeted redistributive policies.
 
+Rationale: Indicator of health and environmental benefits from reducing sugar intake in EU households. 
+
 ##### *Main data sources to produce the data*
 
 European Health Information Survey (EHIS) sample microdata with information on individual heights and weights to generate BMI population distributions of body mass index (BMI) for each of the European Union (EU) member states, SSP2 database, MAGNET model
@@ -260,7 +262,13 @@ Temporal coverage: 2019-2050. Spatial coverage: Global, EU member states.
 
 Country
 
+##### *Specificity*
+
+Model input 
+
 ##### *Data*
+
+Type: Secondary
 
 Nation-wide European Health Information Survey (EHIS) microdata wave 2019. MAGNET
 
@@ -519,7 +527,7 @@ Model input
 
 Type: Secondary
 
-Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
+Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.20099845]
 
 ##### *Visualization*
 
@@ -560,7 +568,7 @@ Model input
 
 Type: Secondary
 
-Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.18630283]
+Garcés, I., Philippidis, G., Sanjuán, A. I., & Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 (Versión v1) [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. [https://doi.org/10.5281/zenodo.20099845]
 
 ##### *Visualization*
 
@@ -578,7 +586,7 @@ Not applicable
 [Eurostat database]: https://ec.europa.eu/eurostat/web/main/data/database
 [WHO]: https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index
 [Sala and De Laurentiis, (2024)]: http://data.europa.eu/89h/1f450ba2-d844-4873-8161-7f210a70474e
-[https://doi.org/10.5281/zenodo.18630283]: https://doi.org/10.5281/zenodo.18630283
+[https://doi.org/10.5281/zenodo.20099845]: https://doi.org/10.5281/zenodo.20099845
 [https://doi.org/10.1080/09535314.2024.2429378]: https://doi.org/10.1080/09535314.2024.2429378
 [https://zenodo.org/records/16096563]: https://zenodo.org/records/16096563
 [https://doi.org/10.1057/s41599-026-08097-9]: https://doi.org/10.1057/s41599-026-08097-9

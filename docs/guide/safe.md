@@ -64,6 +64,7 @@ Among others
 ##### *Article*
 
 Csonka, B., Balázs, K., & Podmaniczky, L. (2026). Ecosystem spatial complexity derived from high resolution agricultural data: a transferable biodiversity proxy. Environmental Challenges, 25, 101658. [https://doi.org/10.1016/j.envc.2026.101658]
+
 Csonka, B., Balázs, K., & Podmaniczky, L. (2026). Empirical study on arable land use diversity – Discussion paper (Version v01). BrightSpace Horizon Europe project, Grant Agreement No. 101060075. [https://doi.org/10.5281/zenodo.19672586]
 
 ##### *Temporal and spatial coverage*

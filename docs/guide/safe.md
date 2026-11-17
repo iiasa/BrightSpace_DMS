@@ -1,6 +1,6 @@
 # Safe Operating Space (SOS) thematic
 
-## Biodiversity                       
+## Biodiversity I                      
 
 ### *Approach: Grass land intensity - mowing event detection*
 
@@ -42,6 +42,51 @@ Schwieder, M., Lobert, F., Tetteh, G. O., & Erasmi, S. (2024). Grassland mowing 
 ##### *Visualization*
 
 [Mowing events map]
+
+## Biodiversity II                      
+
+### *Ecosystem spatial complexity – agricultural landscape structure*
+
+##### *Description*
+
+Ecosystem spatial complexity is a spatially explicit biodiversity-relevant proxy that captures the structural heterogeneity of agricultural landscapes through the spatial arrangement and boundaries of different land cover types. The approach operationalises landscape ecology concepts, particularly habitat heterogeneity, connectivity, spatial complexity and landscape mosaicity, using high-resolution agricultural parcel and land cover data. It calculates the total length of boundaries between different land cover categories within defined spatial units, thereby capturing the degree of spatial interaction between arable land, natural and semi-natural vegetation, and other landscape elements. The methodology combines Hungary's Land Parcel Identification System (LPIS/MePAR) with agricultural parcel information from the Integrated Administration and Control System (IACS), including the annual Geospatial Aid Application (GSA). The analysis uses 27 land cover groups, aggregated into four principal categories: arable land, natural vegetation, semi-natural vegetation (including managed permanent grasslands), and artificial sealed surfaces. Indicators are calculated at agricultural parcel level and aggregated to UTM quadrats, enabling spatial comparison and multi-annual change detection across the country. The approach can identify changes in landscape structure, including the simplification of agricultural landscapes and the loss of boundaries between arable land and semi-natural landscape elements.
+
+Rationale: This indicator is a proxy to evaluate or monitor biodiversity-relevant landscape structure, particularly habitat heterogeneity, spatial connectivity and the complexity of agricultural landscape mosaics. The underlying assumption is that the spatial arrangement and diversity of land cover types, including the extent of boundaries between different ecosystem types, provide information about habitat structure and potential conditions for biodiversity. Changes in boundary length and spatial configuration can therefore indicate landscape simplification or increasing structural heterogeneity. The indicator does not measure species diversity or abundance directly. It represents one component of a broader biodiversity proxy framework and can be combined with complementary indicators covering crop diversity, land management practices, ecosystem distances and indicator species.
+
+##### *Main data sources to produce the data*
+
+Among others
+*	Land Parcel Identification System (LPIS/MePAR), providing high-resolution, wall-to-wall land cover classification and landscape feature information for Hungary.
+*	Integrated Administration and Control System (IACS), providing the administrative and geospatial framework for agricultural parcel information.
+*	Annual Geospatial Aid Application (GSA/GSAA), providing parcel geometries and declared crop types.
+*	Sentinel-2 satellite imagery and Area Monitoring System (AMS) outputs, providing Earth Observation information for agricultural monitoring and supporting the assessment of land cover and management dynamics.
+
+##### *Article*
+
+Csonka, B., Balázs, K., & Podmaniczky, L. (2026). Ecosystem spatial complexity derived from high resolution agricultural data: a transferable biodiversity proxy. Environmental Challenges, 25, 101658. [https://doi.org/10.1016/j.envc.2026.101658]
+Csonka, B., Balázs, K., & Podmaniczky, L. (2026). Empirical study on arable land use diversity – Discussion paper (Version v01). BrightSpace Horizon Europe project, Grant Agreement No. 101060075. [https://doi.org/10.5281/zenodo.19672586]
+
+##### *Temporal and spatial coverage*
+
+Spatial coverage: Hungary (full national territory).
+
+Temporal coverage: 2015–2024, based on the multi-annual LPIS/IACS data series. The analysis includes comparisons of landscape structure over time, with particular attention to changes between 2019 and 2024.
+
+##### *Resolution*
+
+Agricultural parcel-level spatial data, aggregated to UTM quadrats for national-scale comparison and change detection. The indicator is calculated from the length of boundaries between different land cover categories, expressed in metres.
+
+##### *Specificity*
+
+Independent monitoring item 
+
+##### *Data*
+
+Type: estimated
+
+##### *Visualization*
+
+There is no external tool for visualization, but the article ([https://doi.org/10.1016/j.envc.2026.101658]) presents national-scale spatial patterns and change-detection results, including the identification of areas experiencing declining ecosystem spatial complexity.
 
 ## Land use    
 
@@ -223,3 +268,5 @@ The complete data cannot be published due to confidentiality requirements. Howev
 [DOI:10.1016/j.rse.2021.112831]:https://doi.org/10.1016/j.rse.2021.112831
 [Pham et al. (2024)]:https://doi.org/10.1016/j.jag.2024.103867
 [https://doi.org/10.5281/zenodo.20815676]:https://doi.org/10.5281/zenodo.20815676
+[https://doi.org/10.1016/j.envc.2026.101658]:https://doi.org/10.1016/j.envc.2026.101658
+[https://doi.org/10.5281/zenodo.19672586]:https://doi.org/10.5281/zenodo.19672586
